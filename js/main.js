@@ -128,7 +128,7 @@ const createCartProd = (imgSrc, name, price) => {
   // Set values on elements
   imgProd.src = imgSrc;
   nameProd.innerText = name;
-  priceProd.innerText = "$" + price;
+  priceProd.innerText = price + " fr cfa";
   amount.innerText = " 1 ";
 
   divProd.className = "cart-prod";
