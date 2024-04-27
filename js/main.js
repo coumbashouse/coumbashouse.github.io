@@ -82,11 +82,11 @@ const createProd = (imgSrc, name, price, check) => {
   // Set values on elements
   imgProd.src = imgSrc;
   nameProd.innerText = name;
-  priceProd.innerText = "$" + price;
-  buttonProd.innerText = "Add to cart";
+  priceProd.innerText = price + " fr cfa";
+  buttonProd.innerText = "Ajouter au panier";
   prodDesc.innerText =
     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis sunt quam alias soluta ad, labore quas velit rem dolorum eius cum laboriosam magni provident similique!";
-  buttonMore.innerText = "More info";
+  buttonMore.innerText = "Plus d'infos";
 
   // Add classes on elements
   priceProd.className = "price";
