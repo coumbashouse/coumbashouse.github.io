@@ -4,7 +4,7 @@ const prodContIndex = document.querySelector("#prod-index");
 const prodContCart = document.querySelector("#prod-cart");
 
 const prod1 = {
-  imgSrc: "img/nayris-aquino-Lidm0GHUL-0-unsplash.jpg",
+  imgSrc: "img/dialabé.jpeg",
   name: "dialabé enfant",
   price: 599,
 };
@@ -14,8 +14,8 @@ const prod2 = {
   price: 299,
 };
 const prod3 = {
-  imgSrc: "img/rohit-jawalkar-bZvX1kozeRg-unsplash.jpg",
-  name: "Canon E0S",
+  imgSrc: "img/dialabé.jpeg",
+  name: "dialabé enfant",
   price: 699,
 };
 
