@@ -5,12 +5,12 @@ const prodContCart = document.querySelector("#prod-cart");
 
 const prod1 = {
   imgSrc: "img/nayris-aquino-Lidm0GHUL-0-unsplash.jpg",
-  name: "Nikon D3200",
+  name: "dialabé enfant",
   price: 599,
 };
 const prod2 = {
-  imgSrc: "img/mikedelta-zUnc4-eHw6E-unsplash.jpg",
-  name: "Pentax MZ-50",
+  imgSrc: "img/dialabé.jpeg",
+  name: "dialabé enfant",
   price: 299,
 };
 const prod3 = {
