@@ -6,17 +6,17 @@ const prodContCart = document.querySelector("#prod-cart");
 const prod1 = {
   imgSrc: "img/dialabé.jpeg",
   name: "dialabé enfant",
-  price: 599,
+  price: 15.000,
 };
 const prod2 = {
   imgSrc: "img/dialabé.jpeg",
   name: "dialabé enfant",
-  price: 299,
+  price: 15.000,
 };
 const prod3 = {
   imgSrc: "img/dialabé.jpeg",
   name: "dialabé enfant",
-  price: 699,
+  price: 15.000,
 };
 
 const arr = [
